@@ -1,0 +1,75 @@
+Web3
+	https://dfinity.org/
+	https://cryptofundresearch.com/cryptocurrency-funds-overview-infographic/
+
+Blockchain
+	https://csis.gmu.edu/albanese/labs/caesar_cypher.php
+	https://www.movable-type.co.uk/scripts/sha256.html
+	https://guggero.github.io/blockchain-demo/#!/block
+
+ICP
+	https://etherscan.io/tx/0x674779579a8e456fc1f6c8fdf41ef942eb93001d6b8f5ad6c6c59cbc76bef161
+
+Installation
+	https://docs.google.com/document/d/e/2PACX-1vTSgoWcVvuMW4Aa78MyqeK0_ZRl_MaV7rS-tdhya3jlPbSSbxczQFCohrGf87T4F7tJKXwTjT2z_QSq/pub
+	https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub
+
+DBank
+	https://app.compound.finance/?market=usdc-mainnet
+
+Motoko
+	https://internetcomputer.org/docs/language-guide/style.html
+	https://internetcomputer.org/docs/base-libraries/Debug.html
+	https://github.com/dfinity/examples/tree/master/motoko/hello
+	https://internetcomputer.org/docs/candid-guide/candid-concepts.html
+	https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml
+	https://internetcomputer.org/docs/developers-guide/concepts/canisters-code.html#query-update
+	https://internetcomputer.org/docs/base-libraries/Time.html
+
+	https://www.namecheap.com/logo-maker/
+
+Deployment
+	https://internetcomputer.org/docs/current/developer-docs/gas-cost
+	https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/
+	https://internetcomputer.org/docs/current/developer-docs/setup/cycles/cycles-faucet
+	https://coinmarketcap.com/rankings/exchanges/
+	https://www.coingecko.com/en/exchanges
+
+React
+	https://legacy.reactjs.org/docs/hooks-effect.html
+	https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=3881499802
+
+Crypto Token
+	https://curve.fi/#/ethereum/swap
+	https://internetcomputer.org/docs/base-libraries/Principal.html
+	https://internetcomputer.org/docs/base-libraries/HashMap.html
+	https://internetcomputer.org/docs/base-libraries/Option.html
+	https://internetcomputer.org/docs/base-libraries/Array.html
+	https://internetcomputer.org/docs/base-libraries/HashMap.html
+	https://internetcomputer.org/docs/base-libraries/Iter.html
+	https://internetcomputer.org/docs/base-libraries/List.html
+	https://internetcomputer.org/docs/base-libraries/ExperimentalCycles.html
+	https://internetcomputer.org/docs/language-guide/sharing.html#_the_shared_keyword
+	https://internetcomputer.org/docs/language-guide/actor-classes.html#actor_classes
+	https://internetcomputer.org/docs/language-guide/caller-id.html
+	https://internetcomputer.org/docs/language-guide/upgrades.html
+
+	https://www.youtube.com/watch?v=oxEr8UzGeBo
+
+NFTs
+	https://opensea.io/
+	https://etherscan.io/address/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d
+	https://ipfs.io/
+	https://www.pixilart.com/
+
+	https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL_static
+	https://developer.mozilla.org/en-US/docs/Web/API/Blob/Blob
+	https://legacy.reactjs.org/docs/hooks-effect.html
+
+	https://react-hook-form.com/
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
+	https://developer.mozilla.org/en-US/docs/Web/API/Blob/arrayBuffer
+
+	https://erxue-5aaaa-aaaab-qaagq-cai.ic0.app/agent/interfaces/Agent.html#rootKey
+
+	https://dfinity.org/grants/

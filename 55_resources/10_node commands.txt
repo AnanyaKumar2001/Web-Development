@@ -1,0 +1,77 @@
+
+$ touch app.js index.html
+
+$ npm init
+
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (todolist-v1)
+version: (1.0.0)
+description:
+entry point: (app.js)
+test command:
+git repository:
+keywords:
+author: ananyakumar
+license: (ISC)
+About to write to C:\Users\svpnpa\Desktop\Angela Yu\Todolist-v1\package.json:
+
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ananyakumar",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+
+
+$ npm i express body-parser
+
+added 59 packages, and audited 60 packages in 3s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+DESKTOP-35UAKFA+svpnpa@DESKTOP-35UAKFA MINGW64 ~/Desktop/Angela Yu/Todolist-v1
+$ nodemon app.js
+[nodemon] 2.0.21
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+server is running on port 3000.
+
+
+$ npm i ejs
+
+added 16 packages, and audited 76 packages in 5s
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+$ nodemon app.js
+[nodemon] 2.0.21
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
