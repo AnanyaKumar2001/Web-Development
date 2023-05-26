@@ -22,7 +22,6 @@ git repository:
 keywords:
 author: ananyakumar
 license: (ISC)
-About to write to C:\Users\svpnpa\Desktop\Angela Yu\Todolist-v1\package.json:
 
 {
   "name": "todolist-v1",
@@ -49,7 +48,6 @@ added 59 packages, and audited 60 packages in 3s
 
 found 0 vulnerabilities
 
-DESKTOP-35UAKFA+svpnpa@DESKTOP-35UAKFA MINGW64 ~/Desktop/Angela Yu/Todolist-v1
 $ nodemon app.js
 [nodemon] 2.0.21
 [nodemon] to restart at any time, enter `rs`
